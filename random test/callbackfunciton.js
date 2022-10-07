@@ -1,0 +1,1 @@
+//? It ensures that a function is not going to run before a tas k is completed. Helps us develop asynchronous code. When one function has to wait for another function that helps us avoid errors and potential problems for example wait for a file to load
